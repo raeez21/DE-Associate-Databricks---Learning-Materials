@@ -36,4 +36,9 @@ Repos let you use Git functionality such as cloning a remote repo, managing bran
 # DB Notebooks
 Learn more about Databricks Notebook in [Notebooks_basics.ipynb](Notebooks_basics.ipynb)
 
+# Reading files
+The [DE 2.1 - Querying Files Directly.sql](DE%202.1%20-%20Querying%20Files%20Directly.sql) file is a notebook which explains how to query files directly.
+
+The [DE 2.2 - Providing Options for External Sources.sql](DE%202.2%20-%20Providing%20Options%20for%20External%20Sources.sql)shows how to create tables using external data sources
+
 
