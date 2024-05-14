@@ -41,4 +41,11 @@ The [DE 2.1 - Querying Files Directly.sql](DE%202.1%20-%20Querying%20Files%20Dir
 
 The [DE 2.2 - Providing Options for External Sources.sql](DE%202.2%20-%20Providing%20Options%20for%20External%20Sources.sql)shows how to create tables using external data sources
 
+# Cleaning Data and Transformations
+The [DE 2.4 - Cleaning Data.sql](DE%202.4%20-%20Cleaning%20Data.sql) has cleaning logic. It inspects missing data, deduplicate rows, deduplicate rows based on specific columns, validations, playing around date formats and regex.
+
+The [DE 2.5 - Complex Transformations.sql](DE%202.5%20-%20Complex%20Transformations.sql) file contains complex transformations like working with nested data, schema_of_json(), from_json(), explode(), size(), collect_set(), flatten(), array_distinct(), joins and pivot table
+
+
+
 
