@@ -57,6 +57,10 @@ The DE 3.1 descibes more of schemas and tables icnluding, managed and external t
 
 The DE 3.2 explains delta tables: CTAS stmts, Filtering and Renaming Columns from Existing Tables, **Generated Columns**, table constraints , Additional Options and Metadata, and cloning tables.
 
+The DE 3.3 provides SQL syntax to process updates with Delta Lake like **insert overwrite, insert into, merge into and copy into**
+
+The DE 3.5 contains **versioning, optimisation, vaccuming** in delta lake
+
 
 
 
