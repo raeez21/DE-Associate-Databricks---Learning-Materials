@@ -36,6 +36,13 @@ Repos let you use Git functionality such as cloning a remote repo, managing bran
 # DB Notebooks
 Learn more about Databricks Notebook in [Notebooks_basics.ipynb](Notebooks_basics.ipynb)
 
+# Data Objects
+Different data objects in databricks are:
+![data-objects](data_objects.png)
+
+2 types of tables in Databricks:
+![table_types](type_of-tables.png)
+
 # Reading files
 The [DE 2.1 - Querying Files Directly.sql](DE%202.1%20-%20Querying%20Files%20Directly.sql) file is a notebook which explains how to query files directly.
 
@@ -45,6 +52,10 @@ The [DE 2.2 - Providing Options for External Sources.sql](DE%202.2%20-%20Providi
 The [DE 2.4 - Cleaning Data.sql](DE%202.4%20-%20Cleaning%20Data.sql) has cleaning logic. It inspects missing data, deduplicate rows, deduplicate rows based on specific columns, validations, playing around date formats and regex.
 
 The [DE 2.5 - Complex Transformations.sql](DE%202.5%20-%20Complex%20Transformations.sql) file contains complex transformations like working with nested data, schema_of_json(), from_json(), explode(), size(), collect_set(), flatten(), array_distinct(), joins and pivot table
+
+The DE 3.1 descibes more of schemas and tables icnluding, managed and external tables: very important
+
+The DE 3.2 explains delta tables: CTAS stmts, Filtering and Renaming Columns from Existing Tables, **Generated Columns**, table constraints , Additional Options and Metadata, and cloning tables.
 
 
 
