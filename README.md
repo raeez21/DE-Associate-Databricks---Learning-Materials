@@ -53,13 +53,13 @@ The [DE 2.4 - Cleaning Data.sql](DE%202.4%20-%20Cleaning%20Data.sql) has cleanin
 
 The [DE 2.5 - Complex Transformations.sql](DE%202.5%20-%20Complex%20Transformations.sql) file contains complex transformations like working with nested data, schema_of_json(), from_json(), explode(), size(), collect_set(), flatten(), array_distinct(), joins and pivot table
 
-The DE 3.1 descibes more of schemas and tables icnluding, managed and external tables: very important
+The [DE 3.1 - Schemas and Tables.sql](DE%203.1%20-%20Schemas%20and%20Tables.sql) descibes more of schemas and tables icnluding, managed and external tables: very important
 
-The DE 3.2 explains delta tables: CTAS stmts, Filtering and Renaming Columns from Existing Tables, **Generated Columns**, table constraints , Additional Options and Metadata, and cloning tables.
+The [DE 3.2 - Set Up Delta Tables.sql](DE%203.2%20-%20Set%20Up%20Delta%20Tables.sql) explains delta tables: CTAS stmts, Filtering and Renaming Columns from Existing Tables, **Generated Columns**, table constraints , Additional Options and Metadata, and cloning tables.
 
-The DE 3.3 provides SQL syntax to process updates with Delta Lake like **insert overwrite, insert into, merge into and copy into**
+The [DE 3.3 - Load Data into Delta Lake.sql](DE%203.3%20-%20Load%20Data%20into%20Delta%20Lake.sql) provides SQL syntax to process updates with Delta Lake like **insert overwrite, insert into, merge into and copy into**
 
-The DE 3.5 contains **versioning, optimisation, vaccuming** in delta lake
+The [DE 3.5 - Version and Optimize Delta Tables.sql](DE%203.5%20-%20Version%20and%20Optimize%20Delta%20Tables.sql)contains **versioning, optimisation, vaccuming** in delta lake
 
 
 
