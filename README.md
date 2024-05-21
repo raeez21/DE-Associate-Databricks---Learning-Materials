@@ -9,25 +9,25 @@ Databricks is a data and AI company. Databricks is a Spark based modern analytic
 # Overview
 
 Below figure is an overview of the Databricks platform. 
-![overrview](overview.png)
+![overrview](images/overview.png)
 
 # Architecture
-![architecture](archi.png)
+![architecture](images/archi.png)
 
 # Clusters
-![cluster](clusters.png)
+![cluster](images/clusters.png)
 
 Comparing the 2 different cluster types
-![cluster_types](cluster_types.png)
+![cluster_types](images/cluster_types.png)
 
 # Magic commands
 
 Magic commands are special type of commands in Databricks which is mainly used to override default languages, run utilities/auxillary commands etc.
 Few magic commands are:
-![magic_commands](magic_commands.png)
+![magic_commands](images/magic_commands.png)
 
 **DBUTILS** - library of utility functions
-![dbutils](dbutils.png)
+![dbutils](images/dbutils.png)
 
 # DB Repos
 Repos let you use Git functionality such as cloning a remote repo, managing branches, pushing and pulling changes and visually comparing differences upon commit. We can connect Git Repo to DB repo.
@@ -38,10 +38,10 @@ Learn more about Databricks Notebook in [Notebooks_basics.ipynb](Notebooks_basic
 
 # Data Objects
 Different data objects in databricks are:
-![data-objects](data_objects.png)
+![data-objects](images/data_objects.png)
 
 2 types of tables in Databricks:
-![table_types](type_of-tables.png)
+![table_types](images/type_of-tables.png)
 
 # Reading files
 The [DE 2.1 - Querying Files Directly.sql](DE%202.1%20-%20Querying%20Files%20Directly.sql) file is a notebook which explains how to query files directly.
@@ -66,17 +66,17 @@ The [DE 3.5 - Version and Optimize Delta Tables.sql](DE%203.5%20-%20Version%20an
 Delta Live Tables (DLT) is a framework for ETL that simplifies the process of building, managing, and optimizing data pipelines. It provides a declarative approach to define ETL (Extract, Transform, Load) pipelines and automatically manages the execution, scaling, and error handling of these pipelines.
 
 The medallion architecture is:
-![medallion](medallion.png)
-![multi_hop](multi_hop.png)
-![etl_is_complex.png](etl_is_complex.png)
-![dlt](dlt.png)
-![first_dlt](first_dlt.png)
-![dev_dep](dev_dep.png)
-![live_dep](live_dependencies.png)
-![stream](stream.png)
-![pipeline_config](pipeline_config.png)
-![cdc](CDC.png)
-![dlt_data_mgmt](dlt_data_mgmt.png)
+![medallion](images/medallion.png)
+![multi_hop](images/multi_hop.png)
+![etl_is_complex.png](images/etl_is_complex.png)
+![dlt](images/dlt.png)
+![first_dlt](images/first_dlt.png)
+![dev_dep](images/dev_dep.png)
+![live_dep](images/live_dependencies.png)
+![stream](images/stream.png)
+![pipeline_config](images/pipeline_config.png)
+![cdc](images/CDC.png)
+![dlt_data_mgmt](images/dlt_data_mgmt.png)
 
 
 
