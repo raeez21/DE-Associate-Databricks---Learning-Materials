@@ -62,5 +62,21 @@ The [DE 3.3 - Load Data into Delta Lake.sql](DE%203.3%20-%20Load%20Data%20into%2
 The [DE 3.5 - Version and Optimize Delta Tables.sql](DE%203.5%20-%20Version%20and%20Optimize%20Delta%20Tables.sql)contains **versioning, optimisation, vaccuming** in delta lake
 
 
+# DELTA LIVE TABLES
+Delta Live Tables (DLT) is a framework for ETL that simplifies the process of building, managing, and optimizing data pipelines. It provides a declarative approach to define ETL (Extract, Transform, Load) pipelines and automatically manages the execution, scaling, and error handling of these pipelines.
+
+The medallion architecture is:
+![medallion](medallion.png)
+![multi_hop](multi_hop.png)
+![etl_is_complex.png](etl_is_complex.png)
+![dlt](dlt.png)
+![first_dlt](first_dlt.png)
+![dev_dep](dev_dep.png)
+![live_dep](live_dependencies.png)
+![stream](stream.png)
+![pipeline_config](pipeline_config.png)
+![cdc](CDC.png)
+![dlt_data_mgmt](dlt_data_mgmt.png)
+
 
 
