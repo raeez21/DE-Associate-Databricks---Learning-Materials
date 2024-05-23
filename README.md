@@ -78,5 +78,11 @@ The medallion architecture is:
 ![cdc](images/CDC.png)
 ![dlt_data_mgmt](images/dlt_data_mgmt.png)
 
+# Utility Catalog
+
+Utility Catalog is a unified governance solution for all data assets within Databricks Lakehouse platform. It offers centralised metadata management, data governance and data acess control.
+
+![workflow_patter](images/workflow_patterns.png)
+
 
 
